@@ -1,5 +1,9 @@
-# Not working yet man
-# Need help...
-Will you be able to help me? I have been stuck with this for a while...
-You have the right to use what this currently is (If you want use Musashi...(https://github.com/kstenerud/Musashi))
-![image](https://github.com/user-attachments/assets/bee31b25-b4ee-405c-9436-d9373f0fd1a2)
+I am his cousin,
+
+Instead I am doing a SMS emulator
+
+sms_emulator/
+│
+├─ sms.py        
+├─ core.py       
+└─ vdp.py       
